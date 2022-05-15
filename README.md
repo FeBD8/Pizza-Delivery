@@ -1,7 +1,7 @@
 # Pizza-Delivery
 
 *Software Engineering course project at University of Pavia  
-Developed in collaboration with: @fecchioandrea, @matteogobbo01, @FrancescoMusitano and @FeBD8*
+Developed in collaboration with: @fecchioandrea, @matteogobbo01, @FrancescoMusitano and @Riccardo Zanaboni*
 
 ## General Overview
 Implementation of a software for the management of orders and deliveries of a pizzeria.
